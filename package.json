@@ -1,0 +1,17 @@
+{
+  "name": "polarity_Hobbies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/honda0306/Hobbies.git",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Chris Honda <christopher.honda92@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "helmet": "^3.18.0",
+    "knex": "^0.16.5",
+    "nodemon": "^1.19.0"
+  }
+}
